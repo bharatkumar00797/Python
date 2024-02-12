@@ -1,0 +1,13 @@
+Title: "Dynamic Task Scheduler with Resource Allocation"
+
+Description:
+This is a Python program that simulates a dynamic task scheduler capable of handling various tasks with different resource requirements. 
+The scheduler should efficiently allocate resources to tasks based on their priority and resource demands while considering resource constraints.
+
+Key Features:
+
+Task Management: Implement a system to manage tasks with different priorities, deadlines, and resource requirements.
+Resource Allocation: Develop an algorithm to allocate resources (such as CPU time, memory, etc.) to tasks dynamically while maximizing resource utilization.
+Dynamic Scheduling: Design the scheduler to adapt dynamically to changing task priorities, arrivals, and completions.
+Resource Constraints: Handle resource constraints intelligently, ensuring that no task is left waiting indefinitely due to resource unavailability.
+Visualization: Optionally, provide a graphical interface or visualization tool to monitor task execution, resource allocation, and system performance. generate working code for it.
