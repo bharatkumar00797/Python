@@ -3,7 +3,7 @@ import time
 
 class Task:
     def __init__(self, id, priority, resources_needed):
-        self.id = id
+        self.id = i
         self.priority = priority
         self.resources_needed = resources_needed
         self.start_time = None
