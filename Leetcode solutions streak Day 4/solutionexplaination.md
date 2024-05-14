@@ -2,7 +2,7 @@ Sure! Let's break down the code into simpler terms:
 
 1. **Class and Method Definition:** The code defines a class called `Solution` that contains a method called `getMaximumGold`.
 
-2. **DFS Function (dfs):** This function is a recursive function that explores the grid to find the maximum amount of gold that can be collected starting from a given cell. It takes two parameters: the row index (i) and the column index (j) of the current cell.
+2. **DFS Function (dfs):** This function is a recursive function that explores the grid to find the maximum amount of gold that can be collected starting from a given cell. It takes two parameters: the row index (i) and the column index (j) of the current cell. 
 
 3. **DFS Function (dfs) Explained:**
    - **Base Case:** If the current cell is outside the grid boundaries or if the cell has no gold (grid[i][j] == 0), the function returns 0.
